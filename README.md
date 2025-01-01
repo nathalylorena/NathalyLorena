@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá! Eu sou a Nathaly Lorena 🌟
 
-<!--
-**nathalylorena/NathalyLorena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vinda(o) ao meu perfil no GitHub! Sou programadora do Brasil 🇧🇷 e adoro criar soluções criativas através da programação.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 **Habilidades e Linguagens:**
+
+| Linguagem            | Nível          |
+|----------------------|-----------------|
+| Python               | Intermediário  |
+| JavaScript           | Avançado       |
+| HTML & CSS           | Avançado       |
+| SQL                  | Intermediário  |
+
+---
+
+### 📊 **Estatísticas do GitHub:**
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nathalylorena&show_icons=true&theme=blueberry"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalylorena&layout=compact&theme=blueberry"/>
+</div>
+
+---
+
+### 📚 **Um pouco sobre mim:**
+- 🔍 Explorando novas tecnologias e ferramentas.
+- 🌐 Amo colaborar em projetos open-source.
+- 💡 Sempre buscando aprender algo novo!
+
+---
+
+### 📢 **Onde me encontrar:**
+- [LinkedIn](https://www.linkedin.com/in/nathalylorena) 
+
