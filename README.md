@@ -23,11 +23,6 @@
       margin-top: 30px;
     }
 
-    .stats img {
-      border-radius: 10px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    }
-
     footer {
       margin-top: 50px;
       font-size: 14px;
@@ -40,6 +35,7 @@
   <h1>Nathaly Lorena</h1>
 
   <div class="stats">
+    <!-- Estatísticas do GitHub -->
     <img src="https://github-readme-stats.vercel.app/api?username=nathaly-lorena&show_icons=true&theme=radical&count_private=true" alt="Estatísticas do GitHub">
   </div>
 
@@ -49,5 +45,3 @@
 
 </body>
 </html>
-
-
