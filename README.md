@@ -4,20 +4,6 @@
  
 
 
-    h1 {
-      color: #ff66b2;
-      margin-top: 50px;
-    }
-
-    .stats {
-      margin-top: 30px;
-    }
-
-    footer {
-      margin-top: 50px;
-      font-size: 14px;
-      color: #777;
-    }
   </style>
 </head>
 <body>
