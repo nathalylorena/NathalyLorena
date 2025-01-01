@@ -1,18 +1,8 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>GitHub - Nathaly Lorena</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      background-color: white;
-      color: #333;
-      text-align: center;
-      margin: 0;
-      padding: 0;
-    }
+ 
+
 
     h1 {
       color: #ff66b2;
