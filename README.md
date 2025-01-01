@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-BR">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -31,22 +31,6 @@
             border-radius: 10px;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
         }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
-        table, th, td {
-            border: 1px solid #ddd;
-        }
-        th, td {
-            padding: 10px;
-            text-align: left;
-        }
-        th {
-            background-color: #ff69b4;
-            color: white;
-        }
         .stats {
             display: flex;
             justify-content: center;
@@ -63,46 +47,21 @@
         <h1>Nathaly Lorena</h1>
     </header>
     <section>
-        <h2>Sobre Mim</h2>
-        <p>Olá! Sou Nathaly Lorena, uma programadora apaixonada por desenvolvimento web. Amo criar soluções criativas e funcionais que impactam positivamente as pessoas. 💻✨</p>
+        <h2>About Me</h2>
+        <p>Hello! I'm Nathaly Lorena, a programmer passionate about web development. I love creating creative and functional solutions that positively impact people. 💻✨</p>
     </section>
     <section>
-        <h2>Habilidades e Linguagens</h2>
-        <table>
-            <tr>
-                <th>Linguagem</th>
-                <th>Nível</th>
-            </tr>
-            <tr>
-                <td>HTML & CSS</td>
-                <td>Avançado</td>
-            </tr>
-            <tr>
-                <td>JavaScript</td>
-                <td>Avançado</td>
-            </tr>
-            <tr>
-                <td>React</td>
-                <td>Intermediário</td>
-            </tr>
-            <tr>
-                <td>SQL</td>
-                <td>Intermediário</td>
-            </tr>
-        </table>
-    </section>
-    <section>
-        <h2>📊 Estatísticas do GitHub</h2>
+        <h2>📊 GitHub Statistics</h2>
         <div class="stats">
-            <img src="https://github-readme-stats.vercel.app/api?username=nathalylorena&show_icons=true&theme=tokyonight" alt="Estatísticas do GitHub">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalylorena&layout=compact&theme=tokyonight" alt="Linguagens Mais Usadas">
+            <img src="https://github-readme-stats.vercel.app/api?username=nathalylorena&show_icons=true&theme=tokyonight" alt="GitHub Statistics">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathalylorena&layout=compact&theme=tokyonight" alt="Most Used Languages">
         </div>
     </section>
     <section>
-        <h2>Onde Me Encontrar</h2>
+        <h2>Where to Find Me</h2>
         <p>
             <a href="https://www.linkedin.com/in/nathalylorena" target="_blank">LinkedIn</a> | 
-            <a href="https://nathalylorena.dev" target="_blank">Portfólio</a> (em breve!)
+            <a href="https://nathalylorena.dev" target="_blank">Portfolio</a> (coming soon!)
         </p>
     </section>
 </body>
