@@ -1,7 +1,6 @@
 <div align="center" style="font-family: Arial, sans-serif;">
 
 <h1 style="font-size: 50px; color: #ff00ff;">Nathaly Lorena</h1>
-
 <br/>
 
 <div>
