@@ -1,4 +1,4 @@
-<div align="center" style="font-family: Arial, san 22244
+<div align="center" style="font-family: Arial, san 2224
 
 <h1 style="font-size: 50px; color: #ff00ff;">Nathaly Lorena</h1>
 <br/>
